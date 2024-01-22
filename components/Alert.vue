@@ -1,0 +1,7 @@
+<script></script>
+
+<template>
+  <div @click="" class="bg-green-500 rounded px-2 py-1 text-white mb-2">
+    This is alert component
+  </div>
+</template>

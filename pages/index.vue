@@ -1,1 +1,7 @@
-<template><div> <h1>Index madafaka</h1></div></template>
+<template>
+  <div class="main">
+    <Alert />
+    <Profile />
+  </div>
+</template>
+<script setup lang="ts"></script>
